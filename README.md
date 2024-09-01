@@ -1,9 +1,9 @@
 # Machine-Learners
-
-Group Member   
-202418013 - Darshita Dwivedi
-202418025 - Kelvi Petal
-202418057 - Eric Thomas  
-202418058 - Ujjwal Bhansali  
+<hr>
+Group Member-
+<br>202418013 - Darshita Dwivedi
+<br>202418025 - Kelvi Petal
+<br>202418057 - Eric Thomas  
+<br>202418058 - Ujjwal Bhansali  
 
 
